@@ -5,11 +5,14 @@
 }
 
 .navbar {
-  background-color: rgba(75, 7, 7, 0.709);
+  background-color: rgba(75, 7, 7, 0.612);
   font-family: "Averia Gruesa Libre", cursive;
   font-size: 25px;
 }
 
 .collapse ul li {
-  marging: 50px;
+  margin: 15px;
+}
+.collapse ul li a {
+  color: rgb(255, 255, 255);
 }/*# sourceMappingURL=navbar.css.map */
