@@ -1,4 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Averia+Gruesa+Libre&display=swap");
 #UmraqiLogo {
   width: 100px;
   height: 70px;
+}
+
+.navbar {
+  background-color: rgba(75, 7, 7, 0.709);
+  font-family: "Averia Gruesa Libre", cursive;
+  font-size: 25px;
+}
+
+.collapse ul li {
+  marging: 50px;
 }/*# sourceMappingURL=navbar.css.map */
