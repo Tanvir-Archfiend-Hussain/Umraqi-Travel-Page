@@ -1,11 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
 body {
-    background: url(../img/urumqi-china.jpg);
-    background-size: cover;
+  background: url(../img/urumqi-china.jpg);
+  background-size: cover;
 }
 
 .VideoFrame {
-    
-    .TokyoRide {
+  .TokyoRide {
     margin-top: 100px;
+    padding: 40px;
+  }
+  .ParaContainer {
+    padding: 20px;
+  }
 }
+
+.ParaContainer p {
+  background-color: rgba(24, 16, 107, 0.729);
+  color: wheat;
+  font-family: 'Island Moments', cursive;
+  font-size: 25px;
+  padding: 20px;
 }
