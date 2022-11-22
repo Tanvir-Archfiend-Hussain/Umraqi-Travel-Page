@@ -1,5 +1,7 @@
 # Umraqi Travel Page
  
+ 
+# Information
 Ürümqi formerly known as Dihua is the capital of the Xinjiang Uyghur Autonomous Region in the far northwest of the People's Republic of China. Ürümqi developed its reputation as a leading cultural and commercial center during the Qing dynasty in the 19th century.
 
 With a census population of 4 million in 2020, Ürümqi is the second-largest city in China's northwestern interior after Xi'an as well as the largest in Central Asia in terms of population. According to the Guinness Book of Records, Ürümqi is the most remote city from any sea in the world. Ürümqi has seen significant economic development since the 1990s and currently serves as a regional transport node and a cultural, political and commercial center.
