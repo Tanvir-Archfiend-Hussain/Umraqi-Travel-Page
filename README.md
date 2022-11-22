@@ -1,5 +1,8 @@
 # Umraqi Travel Page
  
+ JavaScript
+ Html
+ CSS
  
 # Information
 Ürümqi formerly known as Dihua is the capital of the Xinjiang Uyghur Autonomous Region in the far northwest of the People's Republic of China. Ürümqi developed its reputation as a leading cultural and commercial center during the Qing dynasty in the 19th century.
