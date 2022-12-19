@@ -1,11 +1,10 @@
 # Umraqi Travel Page
  
+ <img src="https://cdn.britannica.com/43/58843-050-36B57B79/Tian-Lake-Bogda-Mountains-Tien-Shan-China.jpg" alt="" />
+
  - JavaScript
  - Html
  - CSS
- 
- <img src="https://cdn.britannica.com/43/58843-050-36B57B79/Tian-Lake-Bogda-Mountains-Tien-Shan-China.jpg" alt="" />
-
  
 # Information
 Ürümqi formerly known as Dihua is the capital of the Xinjiang Uyghur Autonomous Region in the far northwest of the People's Republic of China. Ürümqi developed its reputation as a leading cultural and commercial center during the Qing dynasty in the 19th century.
