@@ -1,8 +1,8 @@
 # Umraqi Travel Page
  
- JavaScript
- Html
- CSS
+ - JavaScript
+ - Html
+ - CSS
  
  <img src="https://cdn.britannica.com/43/58843-050-36B57B79/Tian-Lake-Bogda-Mountains-Tien-Shan-China.jpg" alt="" />
 
